@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="NewYear" size="0.300000 0.296327" />
+    <ImageTarget name="rajav1" size="0.300000 0.352277" />
+    <ImageTarget name="superv1" size="0.300000 0.300000" />
+  </Tracking>
+</QCARConfig>
